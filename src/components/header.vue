@@ -14,7 +14,8 @@
 </script>
 <style>
     .header{
-        width: 100%;
+        width: 300px;
+        height: 300px;
         margin: 0 auto;
     }
     .header img{
